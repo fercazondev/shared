@@ -30,7 +30,7 @@ Nuestro objetivo es facilitar la planificación académica, mejorar la gestión 
 
 - [Fernando Cazon]: Buen manejo de diseño web y habilidades en HTML/CSS.
 - [Ailen Beas]: Experiencia con bases de datos y backend en Node.js.
-- [Dario Montenegro]: Conocimiento básico de Git y metodologías ágiles.
+- [Dario Montenegro]: Conocimiento básico de Git, GitHub, metodologías ágiles y Python.
 
 
 
