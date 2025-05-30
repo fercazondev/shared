@@ -28,7 +28,7 @@ Nuestro objetivo es facilitar la planificación académica, mejorar la gestión 
 
 ## 👥 Integrantes del Equipo
 
-- [Fernando Cazon]: Buen manejo de diseño web y habilidades en HTML/CSS.
+- [Fernando Cazon]: Buen manejo de diseño web y habilidades en HTML/CSS. 
 - [Ailen Beas]: Experiencia con bases de datos y backend en Node.js.
 - [Dario Montenegro]: Conocimiento básico de Git y metodologías ágiles.
 
@@ -40,7 +40,14 @@ A largo plazo, **Cordobits** aspira a convertirse en una red académica integral
 
 ---
 
-**Referencias:**
-- [Documentación de Markdown GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Generador de README](https://readme.so/es)
+## 👤 Perfil de Fernando Cazon
+
+**Habilidades y conocimientos:**
+
+- Uso básico de Git y GitHub (commits, ramas, merge).
+- Conocimiento de HTML, CSS y estructuras de páginas web.
+- Comprensión general de metodologías ágiles (Scrum y Kanban).
+- Comunicación efectiva y trabajo en equipo.
+- Manejo de herramientas colaborativas (Google Drive, Trello).
+- Buena organización y compromiso con tareas grupales.
 
